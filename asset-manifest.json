@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviebox/static/css/main.ef48e360.css",
+    "main.js": "/moviebox/static/js/main.520897f2.js",
+    "static/media/Poster.png": "/moviebox/static/media/Poster.cff6adc1fe215d765a4e.png",
+    "index.html": "/moviebox/index.html",
+    "main.ef48e360.css.map": "/moviebox/static/css/main.ef48e360.css.map",
+    "main.520897f2.js.map": "/moviebox/static/js/main.520897f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef48e360.css",
+    "static/js/main.520897f2.js"
+  ]
+}

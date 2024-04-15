@@ -1,7 +1,7 @@
 import React from 'react';
 import SearchBar from './SearchBar';
 
-function Header() {
+function Main() {
     return (
         <div className='header'>
             
@@ -63,4 +63,4 @@ function Header() {
     );
 }
 
-export default Header;
+export default Main;
